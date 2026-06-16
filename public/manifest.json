@@ -1,0 +1,22 @@
+{
+  "short_name": "IGNITE FitPro",
+  "name": "IGNITE FitPro - บันทึกและวิเคราะห์มวลกายลูกเทรน",
+  "description": "แอปพลิเคชันสำหรับเทรนเนอร์ในการบันทึก ติดตาม และวิเคราะห์ค่ามวลกายของลูกเทรน แสดงผลเป็นกราฟ และสร้างรายงานรูปภาพเพื่อส่งต่อได้ทันที",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/isometric/192/gym.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/isometric/512/gym.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

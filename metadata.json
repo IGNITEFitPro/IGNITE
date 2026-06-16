@@ -1,0 +1,6 @@
+{
+  "name": "IGNITE FitPro",
+  "description": "แอปพลิเคชันสำหรับเทรนเนอร์ในการบันทึก ติดตาม และวิเคราะห์ค่ามวลกายของลูกเทรน แสดงผลเป็นกราฟ และสร้างรายงานรูปภาพเพื่อส่งต่อได้ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
